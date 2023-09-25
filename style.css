@@ -39,7 +39,7 @@ textarea {
     border-radius: 4px;
     box-sizing: border-box;
 }
-input[type='checkbox']{
+input{
     width: auto;
     padding: 10px;
     margin: 5px;
